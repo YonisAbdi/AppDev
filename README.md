@@ -6,6 +6,7 @@ Kodkvalitet:
 Att upprätthålla hög kodkvalitet var en ständig prioritet. Jag arbetade med att se till att koden var välstrukturerad, kommenterad och följde goda programmeringsspråk. Detta innebar att använda tydliga och konsekventa namngivningskonventioner, att hålla metoder och klasser fokuserade och ansvarsfulla samt att dokumentera koden väl för framtida underhåll och översyn. Identifiering och åtgärdande av buggar var en tidskrävande process för mig. Att förstå orsaken bakom varje bugg och hitta en effektiv lösning krävde tålamod och noggrannhet, vilket jag ibland inte hade.
 Säkerhet:
 Säkerhetsaspekter var särskilt utmanande men också otroligt givande. Att implementera robusta autentiserings- och auktorisering mekanismer var avgörande. Jag lärde mig mycket om säkerhets bästa praxis, som att hantera användardata försiktigt och skydda applikationen mot vanliga säkerhetshot.
+
 ![WebAppTest](https://github.com/YonisAbdi/ApplicationsDev/assets/133973900/6da37cd0-a4f1-4ada-bb99-40c0afeb3e74)
 
 
