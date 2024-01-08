@@ -7,7 +7,6 @@ Att upprätthålla hög kodkvalitet var en ständig prioritet. Jag arbetade med 
 Säkerhet:
 Säkerhetsaspekter var särskilt utmanande men också otroligt givande. Att implementera robusta autentiserings- och auktorisering mekanismer var avgörande. Jag lärde mig mycket om säkerhets bästa praxis, som att hantera användardata försiktigt och skydda applikationen mot vanliga säkerhetshot.
 
-![WebAppTest](https://github.com/YonisAbdi/ApplicationsDev/assets/133973900/6da37cd0-a4f1-4ada-bb99-40c0afeb3e74)
 
 
 
