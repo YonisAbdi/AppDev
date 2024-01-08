@@ -8,5 +8,6 @@ Säkerhet:
 Säkerhetsaspekter var särskilt utmanande men också otroligt givande. Att implementera robusta autentiserings- och auktorisering mekanismer var avgörande. Jag lärde mig mycket om säkerhets bästa praxis, som att hantera användardata försiktigt och skydda applikationen mot vanliga säkerhetshot.
 
 
+![WebAppTest](https://github.com/YonisAbdi/AppDev/assets/133973900/132a52eb-9586-4de7-9130-8875998449c9)
 
 
