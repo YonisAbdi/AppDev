@@ -1,5 +1,0 @@
-C:\Users\Yonis Abdi\Downloads\AppDev\WebApplication3\WebApp\obj\Debug\net8.0\WebApp.csproj.AssemblyReference.cache
-C:\Users\Yonis Abdi\Downloads\AppDev\WebApplication3\WebApp\obj\Debug\net8.0\WebApp.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Yonis Abdi\Downloads\AppDev\WebApplication3\WebApp\obj\Debug\net8.0\WebApp.AssemblyInfoInputs.cache
-C:\Users\Yonis Abdi\Downloads\AppDev\WebApplication3\WebApp\obj\Debug\net8.0\WebApp.AssemblyInfo.cs
-C:\Users\Yonis Abdi\Downloads\AppDev\WebApplication3\WebApp\obj\Debug\net8.0\WebApp.csproj.CoreCompileInputs.cache
